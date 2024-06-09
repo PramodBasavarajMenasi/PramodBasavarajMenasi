@@ -2,6 +2,9 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
   ##                                                           A passionate developer from India 🇮🇳 
 
+  ---
+[![](https://visitcount.itsvg.in/api?id=PramodBasavarajMenasi&icon=5&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 <br><br>🧑🏼‍🏫 I'm student at MSRIT - (ECE)<br>📖 I'm currently learning Machine Learning, Python, Arduino Uno <br>🦾 I'm currently working on web development and Automatic Nightlight projects 🥷🏼<br>🧑‍🤝‍🧑💪🏼 Open to collaborating 🤜🏼 on React and Front-end- development.🏋🏼
 
@@ -16,8 +19,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PramodBasavarajMenasi&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PramodBasavarajMenasi&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=PramodBasavarajMenasi&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
