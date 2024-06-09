@@ -1,6 +1,6 @@
 ##                                                                Hi 👋, Pramod Basavaraj Menasi
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ##                                                            A passionate developer from India 🇮🇳 
+  ##                                                           A passionate developer from India 🇮🇳 
 
 # 💫 About Me:
 <br><br>🧑🏼‍🏫 I'm student at MSRIT - (ECE)<br>📖 I'm currently learning Machine Learning, Python, Arduino Uno <br>🦾 I'm currently working on web development and Automatic Nightlight projects 🥷🏼<br>🧑‍🤝‍🧑💪🏼 Open to collaborating 🤜🏼 on React and Front-end- development.🏋🏼
