@@ -1,12 +1,11 @@
-##                                                                Hi 👋, Pramod Basavaraj Menasi
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ##                                                           A passionate developer from India 🇮🇳  
 
-  ---
+  <h1 align="center"> Hi 👋, Pramod Basavaraj Menasi</h1>
+<h3 align="center">A passionate developer from India</h3>
+
 [![](https://visitcount.itsvg.in/api?id=PramodBasavarajMenasi&icon=5&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-<br><br>🧑🏼‍🏫 I'm student at MSRIT - (ECE)<br>📖 I'm currently learning Machine Learning, Python, Arduino Uno <br>🦾 I'm currently working on web development and Automatic Nightlight projects 🥷🏼<br>🧑‍🤝‍🧑💪🏼 Open to collaborating 🤜🏼 on React and Front-end- development.🏋🏼
+<br><br>🧑🏼‍🏫 I'm student at MSRIT - (ECE)<br><br>📖 I'm currently learning Machine Learning, Python, Arduino Uno <br><br>🦾 I'm currently working on web development and Automatic Nightlight projects 🥷🏼<br><br>🧑‍🤝‍🧑💪🏼 Open to collaborating  on React and Front-end- development.🏋🏼
 
 
 ## 🌐 Socials:
