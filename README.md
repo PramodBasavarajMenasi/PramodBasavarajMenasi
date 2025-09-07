@@ -5,7 +5,7 @@
 [![](https://visitcount.itsvg.in/api?id=PramodBasavarajMenasi&icon=5&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-<br><br>🧑🏼‍🏫 I'm student at MSRIT - (ECE)<br><br>📖 I'm currently learning C++ ,DSA in java/c++.  <br><br>🦾 I'm currently working on  Machine Learning  and Arbiter project 🥷🏼<br><br>🧑‍🤝‍🧑💪🏼 Open to collaborating  on React and Front-end- development ,Machine Learning. 🏋🏼
+<br><br>🧑🏼‍🏫 I'm student at MSRIT - (ECE)<br><br>📖 I'm currently learning C++ ,DSA in java.  <br><br>🦾 I'm currently working on  Machine Learning  and Arbiter project 🥷🏼<br><br>🧑‍🤝‍🧑💪🏼 Open to collaborating  on React and Front-end- development ,Machine Learning. 🏋🏼
 
 
 ## 🌐 Socials:
